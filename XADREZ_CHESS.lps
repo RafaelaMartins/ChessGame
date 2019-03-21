@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="XADREZ_CHESS"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="24"/>
+        <CursorPos X="32" Y="33"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="E:\Xadrez-Trabalho Final\XADREZ_CHESS.pas"/>
+        <UnitName Value="XADREZ_CHESS"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="102" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\201578_91033_Resolucoes_Prova3_2014\Prova3_Questao1.pas"/>
+        <UnitName Value="Prova3_Questao1"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="54"/>
+        <CursorPos X="41" Y="73"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\RAFAEL~1\AppData\Local\Temp\Rar$DIa0.081\Prova3_Questao1.pas"/>
+        <UnitName Value="Prova3_Questao1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8"/>
+        <CursorPos X="18" Y="27"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\201578_91033_Resolucoes_Prova3_2014\Prova3_Questao2.pas"/>
+        <UnitName Value="Prova3_Questao2"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="20" Y="38"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\201578_91033_Resolucoes_Prova3_2014\Prova3_Questao3.pas"/>
+        <UnitName Value="Prova3_Questao3"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="99"/>
+        <CursorPos X="12" Y="123"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Prova3_Questao1.pas"/>
+        <UnitName Value="Prova3_Questao1"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos X="27" Y="65"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\Prova3_Questao2.pas"/>
+        <UnitName Value="Prova3_Questao2"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="43"/>
+        <CursorPos X="33" Y="62"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\2015630_8047_Resolucoes_Manoel\Questao1.pas"/>
+        <UnitName Value="Questao1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="23"/>
+        <CursorPos X="20" Y="42"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="686" Column="2" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="23" Column="4" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="26" Column="24" TopLine="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="100" Column="1" TopLine="93"/>
+      </Position4>
+      <Position5>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="462" Column="47" TopLine="454"/>
+      </Position5>
+      <Position6>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="102" Column="1" TopLine="93"/>
+      </Position6>
+      <Position7>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="708" Column="1" TopLine="699"/>
+      </Position7>
+      <Position8>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="101" Column="12" TopLine="72"/>
+      </Position8>
+      <Position9>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="756" Column="25" TopLine="731"/>
+      </Position9>
+      <Position10>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="102" Column="1" TopLine="93"/>
+      </Position10>
+      <Position11>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="514" Column="1" TopLine="505"/>
+      </Position11>
+      <Position12>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="35" Column="11" TopLine="25"/>
+      </Position12>
+      <Position13>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="36" Column="1" TopLine="25"/>
+      </Position13>
+      <Position14>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="91" Column="1" TopLine="82"/>
+      </Position14>
+      <Position15>
+        <Filename Value="XADREZ_CHESS.pas"/>
+        <Caret Line="406" Column="63" TopLine="406"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
